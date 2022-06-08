@@ -16,6 +16,4 @@ Shanghai City, China \| Computer Software
 
 scholar, CS/IT
 
-*Contact:* `print '%s@%s' % ('ChumpMa', 'gmail.com')  #via Python`
-
 *Social:*  [github](https://github.com/itatkakaxi2)
