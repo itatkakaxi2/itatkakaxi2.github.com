@@ -1,28 +1,21 @@
 ---
 layout: page
-title: Zhuang Ma
-description: Zhuang Ma的个人简介。
-keywords: Zhuang Ma, 马壮
+title: Roy
+description: Roy's description
+keywords: Roy
 permalink: /about/
 ---
 
-**Software Engineer at [Sogou, Inc.](http://www.sogou.com)**
+**Developer & Writer**
 
-Beijing City, China \| Computer Software
+Roy's waiting another journey on the life train.
+
+Shanghai City, China \| Computer Software
   
-*Education:* Wuhan Institute of Technology
+*Education:* Sun Yat-Sen University(2012-2015)
 
 scholar, CS/IT
 
 *Contact:* `print '%s@%s' % ('ChumpMa', 'gmail.com')  #via Python`
 
-*Social:*  [github](http://github.com/mzlogin) \| [linkedin](http://www.linkedin.com/in/mazhuang) \| [weibo](http://weibo.com/mzlogin) \| [douban](http://www.douban.com/people/freedim/) \| [blog](http://mazhuang.org)
-    
-```c++
-#include <iostream>
-int main()
-{
-	std::cout << "Hello, friends!" << std::endl;
-	return 0;
-}
-```
+*Social:*  [github](https://github.com/itatkakaxi2)
